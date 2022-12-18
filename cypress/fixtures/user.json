@@ -1,0 +1,21 @@
+{
+   "url":{
+     "site_url":"https://react-shopping-cart-67954.firebaseapp.com/"
+   },
+
+   "cart":{
+    "empty_cart_title":"div.kQlqIC > div.hzlwTK > div.jehOnP > p",
+    "cart_button":"div.fMOJZp > button ",
+    "cart_count_number":"div.fMOJZp > button  > div > div.VLMSP",
+    "cart_close":"div.kQlqIC > button",
+    "product_list":"div.iZZGui  > div",
+    "product_free_shipping":"div.iZZGui  > div > div.bHJSNa",
+    "product_list_heading":"div.foenKb > main  > main.hewZDo > main.iliWeY > p",
+    "product_image_list":"div.sc-124al1g-1"
+    
+   },
+
+   "cart_data":{
+    "label_empty_product":"Add some products in the cart"
+   }
+}

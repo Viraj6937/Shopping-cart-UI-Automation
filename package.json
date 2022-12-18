@@ -1,0 +1,14 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --spec cypress/e2e/*.cy.js"
+  },
+  "author": "Viraj D. Utekar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
